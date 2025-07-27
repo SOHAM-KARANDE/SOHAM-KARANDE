@@ -1,61 +1,96 @@
-# Soham Karande
-
-### AI/ML Engineer | Generative AI Expert | Creative Technologist
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/[your-linkedin-profile]" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.upwork.com/freelancers/[your-upwork-profile]" target="_blank">
-    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Freelancer-green?style=for-the-badge&logo=upwork">
-  </a>
-</p>
+<h1 align="center">Hi, I'm Soham Datta 🚀</h1>
+<h3 align="center">AI/ML Engineer | Generative AI Expert | Building Custom AI Agents to Automate Complexity</h3>
 
 ---
 
-### Mission: Bringing AI to Life
+## 🧠 About Me – Bringing AI to Life
 
-As an AI & ML Engineer based in Pune, India, I am fascinated by the living quality of Artificial Intelligence—its ability to learn, adapt, and evolve. My mission is to build technology that automates complexity and empowers people. I stand at the unique intersection of deep technical expertise and a creator's vision.
+I’m Soham Datta, an AI/ML Engineer and Creative Technologist based in Pune, India. My mission is to design intelligent systems that *automate complexity* and make technology feel more alive—more human. I believe AI isn't just about code—it's about crafting adaptive, evolving systems that think, learn, and resonate. 
 
-- 🚀 **End-to-End Project Execution:** Proven ability to deliver results, demonstrated by successfully developing and deploying over 7 AI projects.
-- 🌍 **Global Freelance Experience:** Partnered with 5+ international clients on Upwork, delivering bespoke AI solutions and creative content with a consistent 4.2/5 rating.
-- 🎓 **Continuous Learner:** Currently pursuing a B.E. in AI & Machine Learning from Pune University and an AI/ML Nanodegree from Udacity.
+From building agentic AI solutions to fine-tuning generative pipelines, I operate at the intersection of intelligence and experience. My work bridges the gap between raw computational power and intuitive design—shaping digital assistants, creative tools, and automation systems that truly *understand* users.
 
 ---
 
-### 🛠️ My Tech Stack
+## 📌 Key Achievements
 
-My toolkit is built on a foundation of cutting-edge AI technologies and robust development practices.
-
-| **AI & Machine Learning** | **Cloud & DevOps** | **Development & Design** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![Generative AI](https://img.shields.io/badge/Generative_AI_(LLM/RAG)-8A2BE2?style=for-the-badge) | ![Cloud Management](https://img.shields.io/badge/Cloud_Management-007ACC?style=for-the-badge) | ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF7B00?style=for-the-badge) |
+- ✅ Delivered **7+ full-cycle AI/ML** projects across diverse domains.
+- 🌍 Worked with **5+ global freelance clients** via Upwork with an average **4.2/5 rating**.
+- 🧪 Completed intensive **AI/ML internship** with **Google for Developers** (TensorFlow, model training).
+- 🧠 Interned as a **UI/UX designer** at Cognifyz Technologies—applying HCI principles to AI products.
+- 📚 Led a campus-wide digitization initiative at **PES Modern College**, making 2,000+ documents digitally accessible.
 
 ---
 
-### ✨ Featured Projects
+## 💻 Tech Stack & Tools
 
-| Project | Description | Technologies Used | Link |
-| :--- | :--- | :--- | :---: |
-| **BLUE.DOT** | A prompt maker app to fine-tune prompts, saving time and energy. | Generative AI Tools | `[your-repo-link]` |
-| **Portfolio** | Personal portfolio built with Firebase and Google's Material Design 3 (MD3), associated with my Upwork profile. | Firebase, MD3 | `[your-live-link]` |
+### 🧠 AI/ML & GenAI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6B00?style=flat&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-007ACC?style=flat&logo=data&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-AI?style=flat&logo=openai)
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🎨 UI/UX & Frontend  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase Studio](https://img.shields.io/badge/Firebase_Studio-yellow?style=flat&logo=firebase)
 
 ---
 
-### 🏆 Licenses & Certifications
+## 🔬 Featured Projects
 
--   **AWS Educate Generative AI** - *Amazon Web Services (AWS)*
--   **AWS Educate Machine Learning Foundations** - *Amazon Web Services (AWS)*
+### 🔷 [BLUE.DOT](https://github.com/sohamdatta/blue-dot)  
+A generative prompt refinement tool that optimizes your prompt workflows using LLMs. Designed to save time and unlock deeper creativity.  
+**Tech**: Gen AI, HuggingFace, UX-first design.
+
+### 🎨 [Portfolio Website](https://github.com/sohamdatta/portfolio)  
+An animated portfolio website built on Google Firebase Studio using Material Design 3, showcasing dynamic UI/UX and backend integration.  
+**Tech**: Firebase, HTML/CSS, Figma, Animations.
+
+### 🧩 [Turring-core](https://github.com/sohamdatta/turring-core)  
+AI-as-a-Service platform in development—designed to serve creative businesses with intelligent automation tools and LLM APIs.  
+**Tech**: Gen AI Stack, Python, Streamlit, Figma.
+
+### 🧘‍♂️ [MindfulFeed](https://github.com/sohamdatta/mindfulfeed)  
+An AI classifier for YouTube content that filters “Mindful vs Mindless” using open-source NLP models from HuggingFace.  
+**Tech**: Python, HuggingFace, Streamlit, Colab.
 
 ---
 
-### 📊 GitHub Activity
+## 🎓 Licenses & Certifications
+
+- **Generative AI with AWS** – *Udacity*
+- **Machine Learning Foundations** – *AWS Educate*
+- **Introduction to Generative AI** – *Google Cloud Skills Boost*
+- **Google AI Essentials** – *Google Cloud Skills Boost*
+- **Foundations of Prompt Engineering** – *AWS*
+- **Data Visualization for Business Insights** – *Forage / Tata Group*
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&rank_icon=github" alt="Soham's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamdatta&theme=tokyonight" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdatta&layout=compact&theme=radical" alt="Top Langs"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamdatta&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're building the next big thing in AI—or simply want to automate something complex—let’s connect. I’m always open to new collaborations, freelance gigs, or startup ideas.
+
+📬 **Email**: sohamkarande00@gmail.com  
+🌐 **LinkedIn**: [@dattasoham](https://www.linkedin.com/in/dattasoham)
+
+> Let’s build the future of AI—together.  
