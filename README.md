@@ -1,6 +1,8 @@
 # Soham Karande 
 AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexity | Gen AI Expert & Freelancer
-<img src="[https://i.postimg.cc/YhYfC48N/LLMRAG.png](https://i.postimg.cc/J4dTKZkF/LLMRAG.png)" alt="Building a Better Future with AI Banner" style="width:100%;">
+
+
+<img width="1584" height="396" alt="LLMRAG" src="https://github.com/user-attachments/assets/13739dd6-2c9f-48f6-9d3c-501634193bde" />
 
 
 ## Hey there! I'm Soham Karande
