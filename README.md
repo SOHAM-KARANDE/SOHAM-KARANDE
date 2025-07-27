@@ -1,7 +1,8 @@
 # Soham Karande 
 AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexity | Gen AI Expert & Freelancer
 
-<p align="center">
+<p align="center"><img width="408" height="612" alt="Untitled design" src="https://github.com/user-attachments/assets/b5b13514-3ca5-478b-a8f6-b32ba0295af1" />
+
   <img src="https://media.giphy.com/media/xTE7U2I1K6Tf2aF2p2/giphy.gif" width="100%">
 </p>
 
