@@ -3,7 +3,7 @@
 ### AI/ML Engineer | Generative AI Expert | Creative Technologist
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[your-linkedin-profile]" target="_blank">
+  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/dattasoham]" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://www.upwork.com/freelancers/[your-upwork-profile]" target="_blank">
