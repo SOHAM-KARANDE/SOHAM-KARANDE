@@ -1,96 +1,96 @@
-<h1 align="center">Hi, I'm Soham Datta 🚀</h1>
-<h3 align="center">AI/ML Engineer | Generative AI Expert | Building Custom AI Agents to Automate Complexity</h3>
+# Soham Datta | AI/ML Engineer & Generative AI Expert
 
----
-
-## 🧠 About Me – Bringing AI to Life
-
-I’m Soham Datta, an AI/ML Engineer and Creative Technologist based in Pune, India. My mission is to design intelligent systems that *automate complexity* and make technology feel more alive—more human. I believe AI isn't just about code—it's about crafting adaptive, evolving systems that think, learn, and resonate. 
-
-From building agentic AI solutions to fine-tuning generative pipelines, I operate at the intersection of intelligence and experience. My work bridges the gap between raw computational power and intuitive design—shaping digital assistants, creative tools, and automation systems that truly *understand* users.
-
----
-
-## 📌 Key Achievements
-
-- ✅ Delivered **7+ full-cycle AI/ML** projects across diverse domains.
-- 🌍 Worked with **5+ global freelance clients** via Upwork with an average **4.2/5 rating**.
-- 🧪 Completed intensive **AI/ML internship** with **Google for Developers** (TensorFlow, model training).
-- 🧠 Interned as a **UI/UX designer** at Cognifyz Technologies—applying HCI principles to AI products.
-- 📚 Led a campus-wide digitization initiative at **PES Modern College**, making 2,000+ documents digitally accessible.
-
----
-
-## 💻 Tech Stack & Tools
-
-### 🧠 AI/ML & GenAI  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6B00?style=flat&logo=huggingface&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-007ACC?style=flat&logo=data&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-AI?style=flat&logo=openai)
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🎨 UI/UX & Frontend  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Firebase Studio](https://img.shields.io/badge/Firebase_Studio-yellow?style=flat&logo=firebase)
-
----
-
-## 🔬 Featured Projects
-
-### 🔷 [BLUE.DOT](https://github.com/sohamdatta/blue-dot)  
-A generative prompt refinement tool that optimizes your prompt workflows using LLMs. Designed to save time and unlock deeper creativity.  
-**Tech**: Gen AI, HuggingFace, UX-first design.
-
-### 🎨 [Portfolio Website](https://github.com/sohamdatta/portfolio)  
-An animated portfolio website built on Google Firebase Studio using Material Design 3, showcasing dynamic UI/UX and backend integration.  
-**Tech**: Firebase, HTML/CSS, Figma, Animations.
-
-### 🧩 [Turring-core](https://github.com/sohamdatta/turring-core)  
-AI-as-a-Service platform in development—designed to serve creative businesses with intelligent automation tools and LLM APIs.  
-**Tech**: Gen AI Stack, Python, Streamlit, Figma.
-
-### 🧘‍♂️ [MindfulFeed](https://github.com/sohamdatta/mindfulfeed)  
-An AI classifier for YouTube content that filters “Mindful vs Mindless” using open-source NLP models from HuggingFace.  
-**Tech**: Python, HuggingFace, Streamlit, Colab.
-
----
-
-## 🎓 Licenses & Certifications
-
-- **Generative AI with AWS** – *Udacity*
-- **Machine Learning Foundations** – *AWS Educate*
-- **Introduction to Generative AI** – *Google Cloud Skills Boost*
-- **Google AI Essentials** – *Google Cloud Skills Boost*
-- **Foundations of Prompt Engineering** – *AWS*
-- **Data Visualization for Business Insights** – *Forage / Tata Group*
-
----
-
-## 📈 GitHub Stats
+## Hey there! I'm Soham Datta
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamdatta&theme=tokyonight" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdatta&layout=compact&theme=radical" alt="Top Langs"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamdatta&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkZWNkNDIzOGU2ZDIzY2M2YjgyZGNlNzE2NjYzZTg3NzM2Y2Q0ZSZlcD12Z2lmLV9naWZfYnJJZCZjdD1n/M9gbBd9hCsO5i/giphy.gif" width="50%">
+</p>
+
+[cite_start]I'm an AI/ML Engineer and Creative Technologist based in Pune, India[cite: 308]. [cite_start]My passion lies in crafting intelligent systems that simplify complexities and make technology feel more human[cite: 309]. [cite_start]I believe AI is more than just code; it's about creating adaptive, evolving systems that can think, learn, and connect[cite: 310].
+
+[cite_start]From developing agentic AI solutions to fine-tuning generative pipelines, I thrive at the intersection of intelligence and user experience[cite: 311]. [cite_start]My work aims to bridge the gap between computational power and intuitive design, building digital assistants, creative tools, and automation systems that genuinely understand and empower users[cite: 312].
+
+---
+
+## 🔭 What I’m Working On
+
+I'm currently exploring the endless possibilities of Generative AI and building custom AI agents to automate complexity. Here are some of the exciting projects I'm involved in:
+
+* [cite_start]**BLUE.DOT**: A generative prompt refinement tool designed to optimize prompt workflows using LLMs, saving time and sparking creativity[cite: 329, 447].
+    * [cite_start]**Technologies Used**: Generative AI Tools [cite: 448][cite_start], Hugging Face, UX-first design[cite: 330].
+* [cite_start]**Turring-core**: An AI-as-a-Service (AIAAS) platform in development, aimed at providing creative businesses with intelligent automation tools and LLM APIs[cite: 335, 464].
+    * [cite_start]**Technologies Used**: Gen AI Stack, Python, Streamlit, Figma[cite: 336].
+* [cite_start]**MindfulFeed**: An AI classifier for YouTube content that distinguishes between "Mindful" and "Mindless" videos using open-source NLP models from Hugging Face[cite: 338, 478].
+    * [cite_start]**Technologies Used**: Python, Hugging Face, Streamlit, Colab[cite: 339].
+* [cite_start]**Portfolio**: An animated personal portfolio built with Firebase Studio and Material Design 3, showcasing dynamic UI/UX and unique features[cite: 332, 457, 458].
+    * [cite_start]**Technologies Used**: Firebase, HTML/CSS, Figma, Animations[cite: 333].
+
+---
+
+## 🚀 Key Achievements
+
+* [cite_start]Delivered over 7 full-cycle AI/ML projects across diverse domains[cite: 314].
+* [cite_start]Collaborated with more than 5 global freelance clients through Upwork, maintaining an average rating of 4.2/5[cite: 315].
+* [cite_start]Completed an intensive AI/ML internship with Google for Developers, focusing on TensorFlow and model training[cite: 316, 265].
+* [cite_start]Interned as a UI/UX designer at Cognifyz Technologies, where I applied Human-Computer Interaction (HCI) principles to AI products[cite: 317].
+* [cite_start]Led a campus-wide digitization initiative at PES Modern College, making over 2,000 documents digitally accessible[cite: 318].
+
+---
+
+## 🛠️ My Tech Stack & Tools
+
+### AI/ML & GenAI
+* [cite_start]Python [cite: 321]
+* [cite_start]Hugging Face [cite: 321]
+* [cite_start]TensorFlow [cite: 49, 321]
+* [cite_start]Retrieval-Augmented Generation (RAG) [cite: 21, 321]
+* [cite_start]Large Language Models (LLM) [cite: 17, 327]
+* [cite_start]Prompt Engineering [cite: 26]
+
+### Cloud & DevOps
+* [cite_start]Amazon Web Services (AWS) [cite: 74, 323]
+* [cite_start]Google Cloud Platform (GCP) [cite: 323]
+* [cite_start]Firebase [cite: 323]
+* [cite_start]AWS SageMaker [cite: 51]
+* [cite_start]Amazon Bedrock [cite: 53]
+
+### UI/UX & Frontend
+* [cite_start]Figma [cite: 325]
+* [cite_start]HTML5 [cite: 325]
+* [cite_start]CSS3 [cite: 325]
+* [cite_start]Google AI Studio [cite: 40, 325]
+
+---
+
+## 📜 Licenses & Certifications
+
+* [cite_start]Generative AI with AWS - Udacity [cite: 176, 341]
+* [cite_start]AWS Educate Machine Learning Foundations - Amazon Web Services (AWS) [cite: 167, 342]
+* [cite_start]Introduction to Generative AI - Google Cloud Skills Boost [cite: 188, 343]
+* [cite_start]Google AI Essentials - Google Cloud Skills Boost [cite: 182, 344]
+* [cite_start]Foundations of Prompt Engineering - Amazon Web Services (AWS) [cite: 218, 345]
+* [cite_start]Tata Data Visualisation: Empowering Business with Effective Insights - Forage [cite: 194, 346]
+* [cite_start]Google Developer Internship - Google for Developers [cite: 265]
+* [cite_start]EF SET English Certificate 71/100 (C2 Proficient) [cite: 223]
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham-karande&show_icons=true&theme=radical&rank_icon=github" alt="Soham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham-karande&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate
+## 📫 Let's Collaborate!
 
-If you're building the next big thing in AI—or simply want to automate something complex—let’s connect. I’m always open to new collaborations, freelance gigs, or startup ideas.
+I'm always excited to connect with fellow innovators. [cite_start]Whether you're building the next big thing in AI, need a hand with a complex automation project, or just want to chat about startup ideas, feel free to reach out! [cite: 372, 373]
 
-📬 **Email**: sohamkarande00@gmail.com  
-🌐 **LinkedIn**: [@dattasoham](https://www.linkedin.com/in/dattasoham)
+* [cite_start]**Email**: [sohamkarande00@gmail.com](mailto:sohamkarande00@gmail.com) [cite: 374]
+* [cite_start]**LinkedIn**: [linkedin.com/in/dattasoham](https://www.linkedin.com/in/dattasoham) [cite: 375]
 
-> Let’s build the future of AI—together.  
+<p align="center">
+  [cite_start]Let's build the future of AI—together. [cite: 376]
+</p>
