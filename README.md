@@ -39,8 +39,8 @@ My toolkit is built on a foundation of cutting-edge AI technologies and robust d
 
 | Project | Description | Technologies Used | Link |
 | :--- | :--- | :--- | :---: |
-| **BLUE.DOT** | A prompt maker app to fine-tune prompts, saving time and energy. | Generative AI Tools | `[your-repo-link]` |
-| **Portfolio** | Personal portfolio built with Firebase and Google's Material Design 3 (MD3), associated with my Upwork profile. | Firebase, MD3 | `[your-live-link]` |
+| **BLUE.DOT** | A prompt maker app to fine-tune prompts, saving time and energy. | Generative AI Tools | `https://github.com/SOHAM-KARANDE/BLUE.DOT.git` |
+| **Portfolio** | Personal portfolio built with Firebase and Google's Material Design 3 (MD3), associated with my Upwork profile. | Firebase, MD3 | `https://aistudio.google.com/apps/drive/1q_4JEXm5Gp4a8u7zXuZ6oba1Ym5L6DcD?showPreview=true&resourceKey=` |
 
 ---
 
