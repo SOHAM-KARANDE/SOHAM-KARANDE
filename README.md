@@ -38,26 +38,34 @@ I'm currently exploring the endless possibilities of Generative AI and building 
 
 ## 🛠️ My Tech Stack & Tools
 
+This is the technology I work with to bring ideas to life, from model development to deployment and design.
+
 ### AI/ML & GenAI
-* Python
-* Hugging Face
-* TensorFlow
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLM)
-* Prompt Engineering
+<ul>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" style="vertical-align:middle"> &nbsp; Python</li>
+    <li><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="24" style="vertical-align:middle"> &nbsp; Hugging Face</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="24" style="vertical-align:middle"> &nbsp; TensorFlow</li>
+    <li><img src="https://api.iconify.design/arcticons/ai-search.svg?color=%23888888" width="24" style="vertical-align:middle"> &nbsp; Retrieval-Augmented Generation (RAG)</li>
+    <li><img src="https://api.iconify.design/carbon/text-link-analysis.svg?color=%23888888" width="24" style="vertical-align:middle"> &nbsp; Large Language Models (LLM)</li>
+    <li><img src="https://api.iconify.design/fluent/keyboard-24-regular.svg?color=%23888888" width="24" style="vertical-align:middle"> &nbsp; Prompt Engineering</li>
+</ul>
 
 ### Cloud & DevOps
-* Amazon Web Services (AWS)
-* Google Cloud Platform (GCP)
-* Firebase
-* AWS SageMaker
-* Amazon Bedrock
+<ul>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" style="vertical-align:middle"> &nbsp; Amazon Web Services (AWS)</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="24" style="vertical-align:middle"> &nbsp; Google Cloud Platform (GCP)</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="24" style="vertical-align:middle"> &nbsp; Firebase</li>
+    <li><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonsagemaker.svg" width="24" style="vertical-align:middle; filter: invert(1);" > &nbsp; AWS SageMaker</li>
+    <li><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonbedrock.svg" width="24" style="vertical-align:middle; filter: invert(1);"> &nbsp; Amazon Bedrock</li>
+</ul>
 
 ### UI/UX & Frontend
-* Figma
-* HTML5
-* CSS3
-* Google AI Studio
+<ul>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" style="vertical-align:middle"> &nbsp; Figma</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" style="vertical-align:middle"> &nbsp; HTML5</li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" style="vertical-align:middle"> &nbsp; CSS3</li>
+    <li><img src="https://www.gstatic.com/a/guides/images/studio/logo-24.svg" width="24" style="vertical-align:middle"> &nbsp; Google AI Studio</li>
+</ul>
 
 ---
 
