@@ -1,27 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on the AIAAS (AI as a services ) platform : Turing Core<br>👯 I’m looking to collaborate on Turing core , Blue.dot , Storyboard_ai and more<br>🤝 I’m looking for help with AI Engineers <br>🌱 I’m currently learning LLM /RAG<br>
+# Hi there, I'm Soham Datta 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohamkarande/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamkarande00@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SOHAM-KARANDE&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SOHAM-KARANDE&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-KARANDE&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SOHAM-KARANDE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SOHAM-KARANDE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://www.linkedin.com/in/dattasoham" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dattasoham-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://www.upwork.com/freelancers/~01c7a5f2e6b6c4b2f1" target="_blank"> <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Freelancer-green?style=for-the-badge&logo=upwork">
+</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SOHAM-KARANDE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me: Bringing AI to Life
+
+[cite_start]I am an AI/ML Engineer and Generative AI Expert based in Pune, India[cite: 14, 18]. What fascinates me about Artificial Intelligence is its constant evolution—its living quality. [cite_start]It's not just code; it's a technology that learns, adapts, and continuously upgrades its ability to interact with us on a human level[cite: 37, 38]. [cite_start]My mission is to create technology that automates complexity and empowers people[cite: 39].
+
+- [cite_start]🤖 **AI/ML Engineer & Researcher:** I have a proven ability to deliver results, demonstrated by successfully developing and deploying over 7 AI projects[cite: 43].
+- [cite_start]🔧 **Creator & Developer:** My approach is defined by a unique intersection of deep technical expertise and a creator's vision[cite: 40]. [cite_start]I've partnered with international clients to deliver bespoke AI solutions, from automation pipelines to AI-powered short films[cite: 84].
+- [cite_start]🎓 **Education:** Currently pursuing a Bachelor of Engineering in AI & Machine Learning from Pune University [cite: 117, 118][cite_start], and a Nanodegree in AI/ML from Udacity[cite: 122, 123].
+- [cite_start]🌐 **Freelancer:** I freelance on Upwork, where I've partnered with 5+ international clients and maintained a 4.2/5 rating[cite: 81, 84, 85].
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies and tools I work with:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Specialties:**
+-   [cite_start]Generative AI (LLMs, RAG) [cite: 42, 125]
+-   [cite_start]Agentic AI [cite: 125, 161]
+-   [cite_start]End-to-End Project Execution [cite: 43]
+-   [cite_start]Natural Language Processing (NLP) [cite: 142]
+-   [cite_start]User-Centric (UI/UX) Design [cite: 44]
+
+---
+
+### ✨ Featured Projects
+
+Here are a couple of projects I'm proud of:
+
+#### 🔵 BLUE.DOT
+- [cite_start]**Description:** A prompt maker application designed to fine-tune prompts, saving time and energy[cite: 151].
+- [cite_start]**Technologies:** Generative AI Tools[cite: 152].
+- **Link:** `[Link to Project]` #### Portfolio Website
+- [cite_start]**Description:** My personal portfolio built with Firebase and Google's Material Design 3 (MD3)[cite: 158]. [cite_start]It is associated with my Upwork freelancing profile[cite: 157].
+- **Technologies:** Firebase, Google Material Design 3.
+- **Link:** `[Link to Portfolio]` ---
+
+### 🏆 Certifications
+
+-   [cite_start]**AWS Educate Generative AI** - *Amazon Web Services (AWS)* [cite: 129, 130]
+-   [cite_start]**AWS Educate Machine Learning Foundations** - *Amazon Web Services (AWS)* [cite: 138, 139]
+-   [cite_start]**Nanodegree, Artificial Intelligence and Machine Learning** - *Udacity* [cite: 123]
+
+---
+
+### 📊 GitHub Stats
+
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-Datta&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Datta&layout=compact&theme=radical) ```
